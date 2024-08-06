@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APIDOTNET\\BaiTestPhuHung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\handlers\\products\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\handlers\\products\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\handlers\\userauth\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\handlers\\userauth\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\handlers\\products\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\handlers\\products\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\handlers\\userauth\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\handlers\\userauth\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\commands\\productcommand\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\commands\\productcommand\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\commands\\productcommand\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\commands\\productcommand\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\handlers\\products\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\handlers\\products\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\commands\\productcommand\\getbyidproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\commands\\productcommand\\getbyidproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\handlers\\products\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\handlers\\products\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\commands\\usercommand\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\commands\\usercommand\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\commands\\usercommand\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\commands\\usercommand\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805151103_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiTestPhuHung\\Migrations\\20240805151103_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805150833_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiTestPhuHung\\Migrations\\20240805150833_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805150802_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiTestPhuHung\\Migrations\\20240805150802_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805150424_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiTestPhuHung\\Migrations\\20240805150424_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\attributes\\tokenauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\attributes\\tokenauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\commands\\productcommand\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\commands\\productcommand\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APIDOTNET\\BaiTestPhuHung\\FEPhuHung\\FEPhuHung\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FEPhuHung\\FEPhuHung\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APIDOTNET\\BaiTestPhuHung\\FEPhuHung\\FEPhuHung\\node_modules\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FEPhuHung\\FEPhuHung\\node_modules\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\baitestphuhung.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\baitestphuhung.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|d:\\apidotnet\\baitestphuhung\\baitestphuhung\\migrations\\20240805151241_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F320268-00E1-42F4-A664-812EBB284EEC}|BaiTestPhuHung\\BaiTestPhuHung.csproj|solutionrelative:baitestphuhung\\migrations\\20240805151241_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:38:17.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\UserAuth\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Handlers\\UserAuth\\LoginUserHandler.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\UserAuth\\LoginUserHandler.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Handlers\\UserAuth\\LoginUserHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA9wBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:19:22.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:18:28.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Program.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Program.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:00:58.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\UserAuth\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Handlers\\UserAuth\\RegisterUserHandler.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\UserAuth\\RegisterUserHandler.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Handlers\\UserAuth\\RegisterUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:16:00.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\Products\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Handlers\\Products\\CreateProductHandler.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\Products\\CreateProductHandler.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Handlers\\Products\\CreateProductHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:42:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\Products\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Handlers\\Products\\UpdateProductHandler.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\Products\\UpdateProductHandler.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Handlers\\Products\\UpdateProductHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:57:45.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\ProductCommand\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Commands\\ProductCommand\\UpdateProductCommand.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\ProductCommand\\UpdateProductCommand.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Commands\\ProductCommand\\UpdateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:59:02.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Middlewares\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Middlewares\\JwtMiddleware.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Middlewares\\JwtMiddleware.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Middlewares\\JwtMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:02:23.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\ProductCommand\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Commands\\ProductCommand\\DeleteProductCommand.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\ProductCommand\\DeleteProductCommand.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Commands\\ProductCommand\\DeleteProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:59:55.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetByIDProductCommand.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\ProductCommand\\GetByIDProductCommand.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Commands\\ProductCommand\\GetByIDProductCommand.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\ProductCommand\\GetByIDProductCommand.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Commands\\ProductCommand\\GetByIDProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:34:45.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllProductsHandler.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\Products\\GetAllProductsHandler.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Handlers\\Products\\GetAllProductsHandler.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\Products\\GetAllProductsHandler.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Handlers\\Products\\GetAllProductsHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvxAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:16:35.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Repositories\\Repository.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:29:28.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:04:04.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:02:49.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\Products\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Handlers\\Products\\DeleteProductHandler.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Handlers\\Products\\DeleteProductHandler.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Handlers\\Products\\DeleteProductHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:13:30.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\UserCommand\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Commands\\UserCommand\\LoginUserCommand.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\UserCommand\\LoginUserCommand.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Commands\\UserCommand\\LoginUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:23:35.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\UserCommand\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Commands\\UserCommand\\RegisterUserCommand.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\UserCommand\\RegisterUserCommand.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Commands\\UserCommand\\RegisterUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:10:14.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Models\\User.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Models\\User.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:36:21.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\appsettings.json",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\appsettings.json",
+              "RelativeToolTip": "BaiTestPhuHung\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T04:50:40.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\appsettings.Development.json",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\appsettings.Development.json",
+              "RelativeToolTip": "BaiTestPhuHung\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T15:12:09.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240805151241_v1.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805151241_v1.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Migrations\\20240805151241_v1.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805151241_v1.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Migrations\\20240805151241_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:12:41.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240805151103_v1.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805151103_v1.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Migrations\\20240805151103_v1.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805151103_v1.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Migrations\\20240805151103_v1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:11:03.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240805150833_v1.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805150833_v1.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Migrations\\20240805150833_v1.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805150833_v1.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Migrations\\20240805150833_v1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:08:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240805150802_v1.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805150802_v1.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Migrations\\20240805150802_v1.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805150802_v1.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Migrations\\20240805150802_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:08:02.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240805150424_v1.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805150424_v1.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Migrations\\20240805150424_v1.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Migrations\\20240805150424_v1.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Migrations\\20240805150424_v1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:04:24.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:59:30.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:04:44.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BaiTestPhuHung\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T05:55:12.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TokenAuthorizationAttribute.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Attributes\\TokenAuthorizationAttribute.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Attributes\\TokenAuthorizationAttribute.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Attributes\\TokenAuthorizationAttribute.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Attributes\\TokenAuthorizationAttribute.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:14:34.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\ProductCommand\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Commands\\ProductCommand\\CreateProductCommand.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Commands\\ProductCommand\\CreateProductCommand.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Commands\\ProductCommand\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:53:32.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Models\\Product.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Models\\Product.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:44:06.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BaiTestPhuHung\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:51:07.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\FEPhuHung\\FEPhuHung\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "FEPhuHung\\FEPhuHung\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\FEPhuHung\\FEPhuHung\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js",
+              "RelativeToolTip": "FEPhuHung\\FEPhuHung\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T07:57:33.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\FEPhuHung\\FEPhuHung\\node_modules\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "FEPhuHung\\FEPhuHung\\node_modules\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\FEPhuHung\\FEPhuHung\\node_modules\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "FEPhuHung\\FEPhuHung\\node_modules\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T07:57:18.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaiTestPhuHung.http",
+              "DocumentMoniker": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.http",
+              "RelativeDocumentMoniker": "BaiTestPhuHung\\BaiTestPhuHung.http",
+              "ToolTip": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.http",
+              "RelativeToolTip": "BaiTestPhuHung\\BaiTestPhuHung.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-03T06:20:55.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
