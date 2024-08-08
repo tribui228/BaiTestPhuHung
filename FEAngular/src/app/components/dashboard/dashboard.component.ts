@@ -86,6 +86,7 @@ export class DashboardComponent implements OnInit {
           alert("thêm thành công");
           this.getallproduct();
           
+          this.AddProductForm.reset();
         },
         error: (err) => {
           console.log(err);          

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj": {}
+    "D:\\TestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj": {}
   },
   "projects": {
-    "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj": {
+    "D:\\TestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj",
+        "projectUniqueName": "D:\\TestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj",
         "projectName": "BaiTestPhuHung",
-        "projectPath": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj",
+        "projectPath": "D:\\TestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\obj\\",
+        "outputPath": "D:\\TestPhuHung\\BaiTestPhuHung\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

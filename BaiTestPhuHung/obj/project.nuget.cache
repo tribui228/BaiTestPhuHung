@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tmAqewgd4PI=",
+  "dgSpecHash": "dDf02SxBq9c=",
   "success": true,
-  "projectFilePath": "D:\\APIDOTNET\\BaiTestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj",
+  "projectFilePath": "D:\\TestPhuHung\\BaiTestPhuHung\\BaiTestPhuHung.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

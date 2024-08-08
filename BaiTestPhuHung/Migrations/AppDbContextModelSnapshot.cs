@@ -34,15 +34,21 @@ namespace BaiTestPhuHung.Migrations
 
                     b.Property<string>("ProductID")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProductName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.HasKey("ID");
 
-                    b.ToTable("Product", (string)null);
+                    b.HasIndex("ProductID")
+                        .IsUnique();
+
+                    b.HasIndex("ProductName")
+                        .IsUnique();
+
+                    b.ToTable("Product");
                 });
 
             modelBuilder.Entity("BaiTestPhuHung.Models.User", b =>

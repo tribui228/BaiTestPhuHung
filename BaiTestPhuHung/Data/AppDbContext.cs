@@ -12,7 +12,16 @@ namespace BaiTestPhuHung.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>().ToTable("user");
-            modelBuilder.Entity<Product>().ToTable("Product");
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Product>()
+                .HasIndex(p => p.ProductID)
+                .IsUnique();
+
+            modelBuilder.Entity<Product>()
+                .HasIndex(p => p.ProductName)
+                .IsUnique();
+            
         }
     }
 }
