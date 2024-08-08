@@ -30,6 +30,6 @@ cài đặt gói : npm install -g @angular/cli và npm install
 chạy ứng dụng : ng serve
 
 3. **Backend**
-dotnet ef database update : gen tự động sql
+gen tự động database : Tool ->nuget package manager ->  package manager consonle -> gõ lệnh add-migration v2 -> gõ lệnh update-database
 
 cấu hình setting : chạy bằng IIS Express với port 44385 và Angular với port 4200 . Cấu hình connectstring cho program.cs cho phù hợp với máy
